@@ -1,5 +1,8 @@
 # Notre Communauté
 
+## YouTube
+Diffusion de contenu vidéo ou des sons.
+
 ## Facebook
 Utile pour partager du contenu et faire tourner les évènements.
 
